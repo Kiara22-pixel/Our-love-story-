@@ -1,0 +1,22 @@
+
+body {
+  background: linear-gradient(#ffdde1, #ee9ca7);
+  font-family: 'Arial', sans-serif;
+  color: #333;
+  text-align: center;
+  padding: 40px;
+  margin: 0;
+}
+
+.container {
+  background: #fff;
+  padding: 20px;
+  border-radius: 20px;
+  box-shadow: 0 0 20px rgba(0,0,0,0.1);
+  max-width: 600px;
+  margin: auto;
+}
+
+h1 {
+  color: #e91e63;
+}
